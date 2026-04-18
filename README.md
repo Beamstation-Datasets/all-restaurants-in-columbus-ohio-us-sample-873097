@@ -9,9 +9,9 @@
 | Dataset ID | `873097` |
 | Location | Columbus |
 | Category | Restaurants |
-| Full dataset size | 2,569 records |
-| Free sample size | 324 records (12.61%) |
-| Last export | 2026-03-31T11:50:38.339867+00:00 |
+| Full dataset size | 3,240 records |
+| Free sample size | 324 records (10.0%) |
+| Last export | 2026-04-14T14:12:19.725265+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-columbus-ohio-us-sample-873097/releases/download/sample-latest/beamstation_873097_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
