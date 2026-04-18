@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Columbus, Ohio with a population of over 905k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Columbus, Ohio, US",
-  "export_job_id": "d0d45463-ad13-4bf5-9f49-6905ec3c0715",
+  "export_job_id": "2948a226-a6a4-4652-aab2-5de860be3121",
   "github_org": "Beamstation-Datasets",
   "id_short": 873097,
   "location_name": "Columbus",
   "location_type": "city",
   "repo_name": "all-restaurants-in-columbus-ohio-us-sample-873097",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/873097/beamstation_873097_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_pct": 12.61,
+  "sample_pct": 10.0,
   "sample_records": 324,
   "sample_sha256": "882aae8548f6a43bea2a1922d073a669feaa9d62083257df9e05abcc0bebb9d6",
   "sample_size_bytes": 1138306,
-  "total_records": 2569,
-  "updated_at": "2026-03-31T11:50:38.339867+00:00"
+  "total_records": 3240,
+  "updated_at": "2026-04-14T14:12:19.725265+00:00"
 }
