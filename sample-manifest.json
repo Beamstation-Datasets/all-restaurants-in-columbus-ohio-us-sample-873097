@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bb56cd26-011b-44ea-adbd-99a6cd680163",
+  "export_job_id": "6f7a7b65-9328-4994-8019-af0ae0deabd5",
   "id_short": 873097,
-  "published_at": "2026-04-21T19:54:45Z",
+  "published_at": "2026-04-28T19:31:42Z",
   "repo_name": "all-restaurants-in-columbus-ohio-us-sample-873097",
   "sample_asset_name": "beamstation_873097_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/873097/beamstation_873097_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 310,
-  "sample_sha256": "08a7f52a78c188d55837a11ba7a1260b5ad575550bd2a0722a383b1f20c12c60",
-  "sample_size_bytes": 1105825,
-  "total_records": 3106
+  "sample_records": 321,
+  "sample_sha256": "6233e19d8781e8b9a04f8dbf52563594566b84722ef961264338e30ecba531f6",
+  "sample_size_bytes": 1123553,
+  "total_records": 3214
 }
